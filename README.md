@@ -54,7 +54,7 @@ If you find this project interesting or useful feel free to connect with me on L
 
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushdahiwale/)
+[![linkedin]("www.linkedin.com/in/vedchaudhari")
 
 
 
